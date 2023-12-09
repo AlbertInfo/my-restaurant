@@ -1,12 +1,12 @@
 body{
-    background-color: red;
+    background-color: rgb(225, 255, 0);
     font-family: Arial, Helvetica, sans-serif;
 }
 
 h1{
-    color: azure;
+    color: rgb(255, 244, 240);
 }
 
 .contact-form{
-    background-color: brown;
+    background-color: rgb(56, 42, 165);
 }
